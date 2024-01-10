@@ -24,3 +24,10 @@ Adobe Photoshop, Lightroom, Canva
 🖥️ Workspace Setup
 
 i7-12th-gen rtx-4050 ,windows, Spyder, Rstudio
+
+
+Links
+
+Linkedin = www.linkedin.com/in/tanaygawade
+
+Instagram = https://www.instagram.com/tanay.raw/
