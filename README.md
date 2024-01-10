@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tanay Gawade
+- 👀 I’m interested in ... AI and Machine Learning 
+- 🌱 I’m currently completing my MS in AI from Yeshiva University
+- 📫 Linkedin ... www.linkedin.com/in/tanaygawade
