@@ -25,7 +25,7 @@
 
 Welcome to the channel! I'm a Machine Learning Engineer specializing in end-to-end automation and the development of impactful, AI-driven projects. My work focuses on building and deploying scalable solutions that automate complex workflows using Generative AI, NLP, and Computer Vision.
 
-🎓 **Education**: Currently pursuing a Master's in Artificial Intelligence at Yeshiva University.
+🎓 **Education**: Completed Master's in Artificial Intelligence at Yeshiva University (May 2025).
 
 ... *SHOW MORE*
 <br>
