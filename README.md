@@ -1,33 +1,71 @@
-🚀 About Me
+# Tanay Gawade | Machine Learning Engineer 🤖
 
-🎓 I am Tanay Gawade, a tech enthusiast (specializing in AI and ML). I am also Pursuing my Masters in AI and will graduate in mid-2025.
+![Futuristic UI GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-👨‍💻 I enjoy contributing to Open Source Projects. I am really enthusiastic about learning new technology. I learned python and Machine Learning tools that help me analyze data and give necessary feedback to projects. Currently am also learning tensor flow and pytorch that are necessary for any AI enginneer.
+---
 
-🎸 Outside the world of tech too, I enjoy playing guitar, edting videos and  photography. Capturing the moments is what I like the most.
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8e50946b-a74d-4b0f-b2fc-11d1d2c0cf9b" width="48" alt="channel icon"></td>
+    <td>
+      <strong>Tanay Gawade</strong><br>
+      <em>AI & Automation Channel</em>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/tanaygawade"><strong>[ SUBSCRIBE ]</strong></a>
+    </td>
+  </tr>
+</table>
 
-✈️ I love traveling too and enjoy trekking a lot exploring new places is kind of my thing.
+**Premiered May 2025** 
+
+---
+
+### **Description**
+
+Welcome to the channel! I'm a Machine Learning Engineer specializing in end-to-end automation and the development of impactful, AI-driven projects. My work focuses on building and deploying scalable solutions that automate complex workflows using Generative AI, NLP, and Computer Vision.
+
+🎓 **Education**: Currently pursuing a Master's in Artificial Intelligence at Yeshiva University.
+
+... *SHOW MORE*
+<br>
+<br>
+---
+#### **Languages & Databases**
+* **Languages**: `Python` `R` `SQL` `C#` `TypeScript` 
+* **Databases**: `Relational Databases` `No SQL Databases` `Vector DBs` `Data warehousing` 
+
+#### **Frameworks & Libraries**
+* **ML/DL Frameworks**: `PyTorch` `TensorFlow` `Scikit-Learn` `Keras` `Hugging Face` `XGBoost` `spaCy` `Transformers` 
+* **Data Processing**: `NumPy` `Pandas` `Spark` `Hadoop` `SciPy` 
+* **GenAI & LLMs**: `LangChain` `CrewAI` `LlamaIndex` `Flair` 
+* **Web & API**: `FastAPI` `Node` `React`
+
+#### **AI & Machine Learning**
+* **Core Concepts**: `Machine Learning` `Deep Learning` `Generative AI` `NLP` `Computer Vision` `RAG` `LLMs` `Reinforcement Learning` `Supervised Learning` `Unsupervised Learning`
+* **Architectures**: `CNN` `GAN` `RNN(LSTM)` `DNN` 
+* **Techniques**: `Regression` `Clustering` `Decision trees` `Time Series` `Prompt Engineering` `Embeddings` `Retrieval` 
+* **Concepts**: `Data Analysis / analytics` `Data Modeling` `Data Visualization` `ETL processes` 
+
+#### **Cloud, DevOps & Automation**
+* **Cloud Platforms**: `AWS` `Azure` `Google Cloud (GCP)` 
+* **MLOps & DevOps**: `Docker` `Kubernetes` `MLflow` `CI/CD` `Git` `Version control`
+* **Automation**: `Workflow Automation (N8N)` `API Integration` `Workflow Orchestration` `Webhooks` `Orchestration frameworks` 
 
 
+<br>
 
-🛠️ Skills
+---
+### **Comments** • 3
 
-Languages
+---
+**Tanay Gawade** (Pinned)
+<br>
+*Check out the key deployments featured in this project! 👇*
+<br>
+---
+> **1. Automated RAG AI Agent**: Deployed a scalable RAG-based AI architecture for real-time task automation using N8N, OpenAI APIs, and Pinecone vector DB.
 
-Python, R
+> **2. High-Performance Medical Imaging**: Engineered a tumor segmentation system (SwinUNETR) achieving a **0.89 Dice score** and a separate U-Net model for heart segmentation with a **92% Dice coefficient**.
 
-Design Tools
-
-Adobe Photoshop, Lightroom, Canva
-
-
-🖥️ Workspace Setup
-
-i7-12th-gen rtx-4050 ,windows, Spyder, Rstudio
-
-
-Links
-
-Linkedin = www.linkedin.com/in/tanaygawade
-
-Instagram = https://www.instagram.com/tanay.raw/
+> **3. Workflow Automation Engine**: Built an automation system processing 200+ job postings/run with 95% accuracy, eliminating 8 hours of daily manual research.
