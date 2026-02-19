@@ -32,14 +32,14 @@ Welcome to the channel! I'm a Machine Learning Engineer specializing in end-to-e
 <br>
 ---
 #### **Languages & Databases**
-* **Languages**: `Python` `R` `SQL` `C#` `TypeScript` 
+* **Languages**: `Python` `SQL` 
 * **Databases**: `Relational Databases` `No SQL Databases` `Vector DBs` `Data warehousing` 
 
 #### **Frameworks & Libraries**
 * **ML/DL Frameworks**: `PyTorch` `TensorFlow` `Scikit-Learn` `Keras` `Hugging Face` `XGBoost` `spaCy` `Transformers` 
 * **Data Processing**: `NumPy` `Pandas` `Spark` `Hadoop` `SciPy` 
-* **GenAI & LLMs**: `LangChain` `CrewAI` `LlamaIndex` `Flair` 
-* **Web & API**: `FastAPI` `Node` `React`
+* **GenAI & LLMs**: `LangChain` `CrewAI` `LlamaIndex` `n8n` `Google ADK` `Open Ai` `Claude` 
+* **Web & API**: `FastAPI` 
 
 #### **AI & Machine Learning**
 * **Core Concepts**: `Machine Learning` `Deep Learning` `Generative AI` `NLP` `Computer Vision` `RAG` `LLMs` `Reinforcement Learning` `Supervised Learning` `Unsupervised Learning`
